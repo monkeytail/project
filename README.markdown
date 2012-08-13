@@ -6,7 +6,4 @@ Add another line
 
 Bye bye,
 
-<<<<<<< HEAD
 — Steffen Veit
-=======
->>>>>>> updated READMEtitle
